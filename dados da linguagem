@@ -1,0 +1,11 @@
+Em JavaScript principais tipos de dados da linguagem:
+Number: representa valores numéricos, como inteiros e números de ponto flutuante.
+String: representa sequências de caracteres, como texto.
+Boolean: representa valores verdadeiros ou falsos (true ou false).
+Null: representa a ausência intencional de qualquer objeto ou valor.
+Undefined: representa uma variável que foi declarada, mas não possui um valor atribuído.
+Object: é uma estrutura de dados que pode conter propriedades e métodos.
+Array: representa uma coleção ordenada de valores, acessíveis por índices.
+Function: é um bloco de código reutilizável que pode ser executado quando chamado.
+Symbol: é um tipo de dado único e imutável, frequentemente utilizado como chave para propriedades de objetos.
+BigInt: representa números inteiros maiores do que o limite suportado pelo tipo Number padrão.
