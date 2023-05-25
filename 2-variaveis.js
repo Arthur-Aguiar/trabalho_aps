@@ -20,6 +20,6 @@ console.log("Idade modificada:", idade);
 
 //Em seguida, utilizamos a função console.log() para exibir os valores das variáveis no console.
 
-//Depois, modificamos o valor das variáveis nome e idade, atribuindo "Ana" a nome e 35 a idade.
+//Depois, modificamos o valor das variáveis nome e idade, atribuindo "Zé Maria" a nome e 35 a idade.
 
-//Por fim, utilizamos novamente console.log() para exibir os novos valores das variáveis no console.
+//Por fim, utilizamos novamente console.log() para exibir os novos valores das variáveis no console.    

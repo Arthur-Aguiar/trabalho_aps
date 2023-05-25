@@ -1,5 +1,4 @@
-
-const numero = 4;
+const numero = 5;
 const fatorial = calcularFatorial(numero);
 
     function calcularFatorial(n) {
