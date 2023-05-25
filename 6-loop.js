@@ -11,6 +11,7 @@ let notas = [
 
 
 for (let i = 0; i < nomes.length; i++) { //é responsável por percorrer os elementos do vetor 'nomes' utilizando a variável 'i' como contador.
+  console.log("Aluno:", nomes[i]);
   console.log("Notas:", notas[i]);
   console.log("-------------------");
 }

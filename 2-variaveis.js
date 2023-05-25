@@ -16,7 +16,7 @@ idade = 35;
 console.log("Nome modificado:", nome);
 console.log("Idade modificada:", idade);
 
-//Neste exemplo, declaramos três variáveis: nome, idade e PI. Em seguida, atribuímos valores a essas variáveis: "Maria" para nome, 30 para idade e 3.14159 para PI.
+//Neste exemplo, declaramos três variáveis: nome, idade e PI. Em seguida, atribuímos valores a essas variáveis: "Zé Pinga" para nome, 51 para idade e 3.14159 para PI.
 
 //Em seguida, utilizamos a função console.log() para exibir os valores das variáveis no console.
 

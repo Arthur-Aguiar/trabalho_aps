@@ -1,6 +1,6 @@
 //Uso de constante para armazenar um valor fixo:
 
-const LIMITE_IDADE = 16;
+const LIMITE_IDADE = 18;
 let idade = 16;
 let podeVotar = idade >= LIMITE_IDADE;
 console.log("Pode votar?", podeVotar);
